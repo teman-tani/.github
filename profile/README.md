@@ -1,12 +1,52 @@
-## Hi there 👋
+# Teman Tani
+## About
+Teman Tani is an android-based application that can recognize 5 kinds of diseases on rice leaves using machine learning, namely Leaf Blast, Brown Spot, Hispa, Tungro, and Blight. After detecting the disease, the application will provide appropriate pesticide recommendations.
 
-<!--
+## Team member
+| Name     | Student Id      | Path   
+| ------------- | ------------- | --------    |
+| Muh Alif Alghifari       | M2323J2833          | Machine Learning   |
+| Rezki         | M2323J2837         | Machine Learning  |
+| Ainul Haqi         | M2269J2333         | Machine Learning   |
+| Alda Latifah         | A2269J2332          | Andorid Development   |
+| Muhammad Naufal Daffa Ulhaq         | A2323J2839          | Andorid Development   |
+| Sulistyorini          | C2269J2336          | Cloud Computing   |
 
-**Here are some ideas to get you started:**
+## Getting started
+* Presequites
+  * Android
+  * Internet Connection
+* Installation
+  * Download the APK in here
+  * Install the APK
+* Open teman tani application
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Usage
+1. Open teman tani aplication
+2. Click button 'Deteksi'
+3. Take a picture of rice leaves affected by pests
+4. Send the picture
+5. The app will give you the name of the disease along with pesticide recommendations
+
+
+## Technology used
+1. Machine Learning
+    * Tensorflow
+    * Python
+2. Android Development
+    * Kotlin
+    * Firebase
+3. Cloud Computing
+    * Flask
+    * Google Compute Engine
+
+## Contact
+
+| Name     | Github      | 
+| ------------- | ------------- | 
+| Muh Alif Alghifari          | https://github.com/alifaalghifari|
+| Rezki                       | https://github.com/RezkiIdris   | 
+| Ainul Haqi                  | https://github.com/AinulHaq016      | 
+| Alda Latifah                | https://github.com/AldaLatifah         | 
+| Muhammad Naufal Daffa Ulhaq | https://github.com/dafuq01        |
+| Sulistyorini                | https://github.com/slstyrn21|
