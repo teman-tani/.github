@@ -1,5 +1,5 @@
 # Teman Tani
-![alt text](https://github.com/teman-tani/.github/blob/main/image_app/1.png)
+![alt text](https://github.com/teman-tani/.github/blob/main/image_app/Screenshot_20220613-090348_TemanTani.jpg)
 
 ## About
 Teman Tani is an android-based application that can recognize 5 kinds of diseases on rice leaves using machine learning, namely Leaf Blast, Brown Spot, Hispa, Tungro, and Blight. After detecting the disease, the application will provide appropriate pesticide recommendations.
