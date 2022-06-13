@@ -17,7 +17,7 @@ Teman Tani is an android-based application that can recognize 5 kinds of disease
   * Android
   * Internet Connection
 * Installation
-  * Download the APK in here
+  * Download the APK in [here](https://drive.google.com/drive/folders/1TtVnk6q5_Ua3Y-gzn1GP52G79Nc2Tkne)
   * Install the APK
 * Open teman tani application
 
